@@ -4,8 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
+Japanese learning app.
 <p float="left">
   <img src="https://github.com/user-attachments/assets/3cef6851-3b37-405e-974d-38afe725eaf4" width="200" />
   <img src="https://github.com/user-attachments/assets/3b21eef9-82a5-4771-bb04-40a293bc8a49" width="200" />
